@@ -49,5 +49,25 @@ a:link, a:visited{
     width: 100%;
     height: 400px;
     background: url(../images/sale-landingpage02_02.jpg) repeat-x bottom;
-    margin-top: 200px;
+    padding-top: 200px;
+}
+/*coupon area start*/
+.coupon{
+    margin: 200px auto 0;
+}
+.coupon img{
+    display: block;
+    width: auto;
+    max-width: 800px;
+    margin: 0 auto;
+}
+/*medama title start*/
+.medama-title{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+/*medama item start*/
+.medama-item{
+    max-width: 1000px;
+    margin: 0 auto;
 }
