@@ -19,31 +19,13 @@ a:link, a:visited{
     margin: -200px 0;
 }
 #main-title{
-    width: 60%;
+    width: 45%;
     margin: 0px auto;
     padding-top: 450px;
     text-align: center;
 }
-.main-shop-name{
-    color: #af3525;
-    font-size: 2em;
-}
-.main-sale-name{
-    color: #fff;
-    font-size: 13em;
-    margin-top: -60px;
-    text-shadow: 8px 4px 2px #af3525;
-}
-.main-date{
-    width: 60%;
-    height: 40px;
-    background-color: #84872c;
-    border-radius: 30px;
-    margin: -50px auto;
-    font-size: 1.3em;
-    letter-spacing: 4px;
-    color: #fff;
-    padding-top: 6px;
+#main-title a img{
+    width: 100%;
 }
 .main-back01{
     width: 100%;
@@ -57,7 +39,7 @@ a:link, a:visited{
 }
 .coupon img{
     display: block;
-    width: auto;
+    width: 100%;
     max-width: 800px;
     margin: 0 auto;
 }
@@ -66,8 +48,14 @@ a:link, a:visited{
     max-width: 1000px;
     margin: 0 auto;
 }
+.medama-title a img{
+    width: 100%;
+}
 /*medama item start*/
 .medama-item{
     max-width: 1000px;
     margin: 0 auto;
+}
+.medama-item a img{
+    width: 100%;
 }
